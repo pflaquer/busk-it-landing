@@ -97,7 +97,7 @@ body {
 
 .swiper-slide {
   width: 300px;
-  height: 450px;
+  height: 900px;
   display: flex;
   flex-direction: column;
   justify-content: end;
