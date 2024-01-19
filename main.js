@@ -18,7 +18,7 @@ var swiper = new Swiper(".swiper", {
   },
   loop: true,
   autoplay: {
-    delay: 3000*Math.random(),
+    delay: 1000,
     disableOnInteraction: true,
   },
   pagination: {
